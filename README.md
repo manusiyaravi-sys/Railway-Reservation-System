@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240083
+# Name:MANUSIYA R
+# Date:20-11-2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="2376" height="1345" alt="se3use" src="https://github.com/user-attachments/assets/f24cb262-2501-4e25-8147-8b85501a1bdf" />
 
 
 
@@ -97,6 +98,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="2365" height="1348" alt="se3act" src="https://github.com/user-attachments/assets/d44c61d8-5116-4222-bb24-c254aa36e229" />
 
 
 
@@ -118,6 +120,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="2534" height="1352" alt="se3rail" src="https://github.com/user-attachments/assets/0e7d39d9-31d2-4086-82d1-e0d230e59afd" />
 
 
 
